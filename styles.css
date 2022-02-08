@@ -53,3 +53,10 @@ line-height: 120.5%;
 color: #D23166;
 opacity: 0.9;
 }
+nav {
+  font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 18px;
+}

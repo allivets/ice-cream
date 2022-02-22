@@ -72,4 +72,6 @@ header {
 }
 bottom {
   background-color: #D23166;
+  border-radius: 5px;
+  color: #FAFAFA;
 }

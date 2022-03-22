@@ -93,6 +93,13 @@ font-weight: 400;
 font-size: 14px;
 line-height: 16px;
 }
+nav ul li a:hover {
+  color: font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+color: #D23166;
 nav ul li {
   display: inline;
 .predl {

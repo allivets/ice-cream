@@ -119,4 +119,9 @@ font-weight: 500;
 font-size: 18px;
 line-height: 21px;
 color: #000000;
+text-decoration: none;
+  opacity: 0.6;
+}
+.our li a:hover {
+  text-decoration: ubderline;
 }

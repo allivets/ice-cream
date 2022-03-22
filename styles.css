@@ -103,6 +103,7 @@ color: #D23166;
 }
 nav ul li {
   display: inline-block;
+  margin-right: 40px;
 }
 .predl {
 font-size: 14px;

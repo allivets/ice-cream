@@ -93,6 +93,7 @@ font-weight: 400;
 font-size: 14px;
 line-height: 16px;
 color: #150101;
+text-decoration: none;
 }
 nav ul li a:hover {
   font-family: 'Roboto', sans-serif;
@@ -110,4 +111,12 @@ nav ul li {
 font-size: 14px;
 line-height: 16px;
 color: #150101;
+}
+.our li a {
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
 }

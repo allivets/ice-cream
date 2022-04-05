@@ -135,5 +135,6 @@ text-decoration: none;
   text-decoration: ubderline;
 }
 nav {
-display: flex;  
+display: flex; 
+  align-items: flex-start;
 }

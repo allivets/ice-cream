@@ -109,6 +109,8 @@ color: #D23166;
 nav ul li {
   display: inline-block;
   margin-right: 40px;
+  max-width: 1125px;
+  margin-top: 42px;
 }
 .predl {
 font-size: 14px;
@@ -124,8 +126,6 @@ line-height: 21px;
 color: #000000;
 text-decoration: none;
   opacity: 0.6;
-  max-width: 1125px;
-  margin-top: 42px;
 }
 .our li a:hover {
   text-decoration: ubderline;

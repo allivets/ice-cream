@@ -143,3 +143,9 @@ display: flex;
 .button1 {
 margin-top: 25px;
 }
+.flex {
+  display: flex;
+}
+.left {
+ flex-basis: 665px; 
+}

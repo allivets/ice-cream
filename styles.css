@@ -29,6 +29,9 @@ color: #0F0101;
 border: 1px solid #000000;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+header {
+  justify-content: center;
+}
 header p {
   font-family:"Hind Madurai", sans-serif;
 font-style: normal;
@@ -70,9 +73,8 @@ font-weight: 500;
 font-size: 18px;
 line-height: 21px;
   }
-header {
+.back {
  background-color: #F2CEDA; 
-
 }
 button {
   background-color: #D23166;

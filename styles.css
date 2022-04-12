@@ -72,6 +72,7 @@ line-height: 21px;
   }
 header {
  background-color: #F2CEDA; 
+   max-width: 1125px;
 }
 button {
   background-color: #D23166;
@@ -88,7 +89,6 @@ nav ul {
   margin:0;
   padding: 0;
   list-style-type: none;
-  max-width: 1125px;
   padding-top: 42px;
   margin-left:auto;
   margin-right:auto;
@@ -138,3 +138,5 @@ nav {
 display: flex; 
   align-items: flex-start;
 }
+.button1 
+margin

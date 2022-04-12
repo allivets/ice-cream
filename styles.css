@@ -144,12 +144,11 @@ margin-top: 25px;
 }
 .flex {
   display: flex;
-   max-width: 100%;
+   max-width: 1172px;
   margin-left: auto;
    margin-right: auto;
 }
 .left {
  flex-basis: 862px; 
-  max-width: 1172px;
 }
 

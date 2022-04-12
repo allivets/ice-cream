@@ -147,6 +147,7 @@ margin-top: 25px;
 }
 .left {
  flex-basis: 862px; 
+  max-width: 1172px;
 }
 header .right {
   max-width: 100%;

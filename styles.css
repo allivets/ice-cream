@@ -72,7 +72,7 @@ line-height: 21px;
   }
 header {
  background-color: #F2CEDA; 
-   max-width: 1125px;
+
 }
 button {
   background-color: #D23166;
@@ -137,6 +137,8 @@ text-decoration: none;
 nav {
 display: flex; 
   align-items: flex-start;
+  max-width: 1125px;
 }
-.button1 
-margin-top: 20px;
+button .button1 {
+padding-top: 20px;
+}

@@ -120,7 +120,9 @@ nav ul li {
 font-size: 14px;
 line-height: 16px;
 color: #150101;
-
+border-radius: 7px;
+  padding: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.03);
 }
 .our li a {
 font-family: 'Roboto', sans-serif;
@@ -161,11 +163,6 @@ margin-top: 25px;
   margin-right: auto;
   justify-content: center;
   gap: 39px;
-}
-.pred1 {
-border-radius: 7px;
-  padding: 30px;
-  border: 1px solid rgba(0, 0, 0, 0.03);
 }
 .ice {
   display: flex;

@@ -120,6 +120,7 @@ nav ul li {
 font-size: 14px;
 line-height: 16px;
 color: #150101;
+
 }
 .our li a {
 font-family: 'Roboto', sans-serif;
@@ -158,4 +159,5 @@ margin-top: 25px;
   display: flex;
   margin-left: auto;
   margin-right: auto;
+  justify-content: center;
 }

@@ -154,4 +154,6 @@ margin-top: 25px;
  flex-basis: 862px; 
  padding-top: 150px;
 }
-
+.pic {
+  display: flex;
+}

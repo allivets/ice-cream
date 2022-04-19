@@ -160,5 +160,8 @@ margin-top: 25px;
   margin-left: auto;
   margin-right: auto;
   justify-content: center;
-  align-items: center;
+  gap: center;
+}
+.pred1 {
+  
 }

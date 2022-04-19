@@ -156,4 +156,6 @@ margin-top: 25px;
 }
 .pic {
   display: flex;
+  margin-left: auto;
+  margin-right: auto;
 }

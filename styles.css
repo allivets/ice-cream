@@ -33,11 +33,6 @@ header p {
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
-  .left1 {
-  padding-left: 250px;
-  }
-  .right1 {
-    padding-right: 180px;
   }
 line-height: 27px;
 color: #0F0101;
@@ -175,4 +170,10 @@ margin-top: 25px;
 }
 .pinky {
   background-color: #F8EDF0;
+}
+ .left1 {
+  padding-left: 250px;
+  }
+  .right1 {
+    padding-right: 180px;
 }

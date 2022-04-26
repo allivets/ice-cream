@@ -167,6 +167,7 @@ margin-top: 25px;
 }
 .ice {
   display: flex;
+  align-items: center;
 }
 .pinky {
   background-color: #F8EDF0;

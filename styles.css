@@ -185,6 +185,9 @@ font-size: 44.2px;
 line-height: 61px;
 color: #150101;
 }
+.menu ul {
+ list-style-type: none; 
+}
 .menu ul li a {
   font-family: 'Roboto', sans-serif;
 font-style: normal;

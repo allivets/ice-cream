@@ -178,6 +178,10 @@ margin-top: 25px;
   .right1 {
     padding-right: 180px;
 }
+.menu nav {
+  display: flex; 
+  align-items: flex-start;
+}
 .menu h3 {
   font-family: "Hind Madurai", sans-serif;
 font-style: normal;
@@ -196,7 +200,7 @@ font-weight: 500;
 font-size: 18px;
 line-height: 21px;
 }
-.menu nav ul li a:hover {
+.menu nav ul li:hover {
  font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;

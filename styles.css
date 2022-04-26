@@ -19,7 +19,7 @@ line-height: 36px;
 color: #000000;
 }
 h5 {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
@@ -41,7 +41,7 @@ opacity: 0.6;
   margin-bottom:30px;
 }
 p {
-font-family: Roboto, sans-serif;
+font-family: "Roboto", sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
@@ -176,4 +176,27 @@ margin-top: 25px;
   }
   .right1 {
     padding-right: 180px;
+}
+.menu h3 {
+  font-family: "Hind Madurai", sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 44.2px;
+line-height: 61px;
+color: #150101;
+}
+.menu ul li a {
+  font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+}
+.menu ul li a:hover {
+ font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+border-bottom: 3px solid #D64374;
 }

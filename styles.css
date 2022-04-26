@@ -186,17 +186,17 @@ font-size: 44.2px;
 line-height: 61px;
 color: #150101;
 }
-.menu ul {
+.menu nav ul {
  list-style-type: none; 
 }
-.menu ul li a {
+.menu nav ul li a {
   font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 18px;
 line-height: 21px;
 }
-.menu ul li a:hover {
+.menu nav ul li a:hover {
  font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;

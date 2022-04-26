@@ -178,6 +178,9 @@ margin-top: 25px;
   .right1 {
     padding-right: 180px;
 }
+.menu {
+  margin-top: 20px;
+}
 .menu nav {
   display: flex; 
   align-items: flex-start;
@@ -189,6 +192,7 @@ font-weight: 600;
 font-size: 44.2px;
 line-height: 61px;
 color: #150101;
+text-align: center;
 }
 .menu nav ul {
  list-style-type: none; 
